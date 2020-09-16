@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bhavik Shah
+title: Bhavik Samir Shah
 
 # Username (this should match the folder name)
 authors:
