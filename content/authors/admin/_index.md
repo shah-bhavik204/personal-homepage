@@ -61,9 +61,9 @@ email: "bhaviksamir.shah@mavs.uta.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
----
+# - Researchers
+# - Visitors
+# ---
 
 I am a young and entusiastic Software developer with two years of experience in full-stack development. I have taken role as a Junior developer, Lead developer, and Solo developer in different Projects. I have a keen intersts in Artificial Intelligence, Data Mining and RFID. 
 
