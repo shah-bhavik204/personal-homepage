@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = {{< figure library="true" src="vue.jpg" title="VUE" >}}
+  icon = vue
   icon_pack = "fab"
-  name = "R"
+  name = "Vue.js"
   description = "90%"
   
 [[feature]]
