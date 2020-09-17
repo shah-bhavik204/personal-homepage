@@ -22,9 +22,8 @@ subtitle = ""
   filter_default = 0
   
    [[content.filter_button]]
-     name = "All"
+     name = "AlHqwlkejhfekhfrkjwhfjkewhkjl"
      tag = "*"
-     description = "HEllooHEllooHEllooHEllooHEllooHElloo
   
    [[content.filter_button]]
      name = "SalesDrive"
