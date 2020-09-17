@@ -22,7 +22,7 @@ subtitle = ""
   filter_default = 0
   
    [[content.filter_button]]
-     name = "AlHqwlkejhfekhfrkjwhfjkewhkjl"
+     name = "All"
      tag = "*"
   
    [[content.filter_button]]
@@ -32,6 +32,20 @@ subtitle = ""
    [[content.filter_button]]
      name = "KBET"
      tag = "KBET"
+  
+   [content.filters]
+    tag = "SalesDrive"
+    category = "ABC"
+    publication_type = "xyz"
+    author = "bhavik"
+    exclude_featured = false
+
+    [content.filters]
+    tag = "KBET"
+    category = "ABC"
+    publication_type = "xyz"
+    author = "bhavik"
+    exclude_featured = false
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
