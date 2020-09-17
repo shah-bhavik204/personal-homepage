@@ -32,17 +32,6 @@ subtitle = ""
   name = "Node.js"
   description = "60%"
 
-[[feature]]
-  icon = "laptop-code"
-  icon_pack = "fas"
-  name = "Node.js"
-  description = "60%"
-
-[[feature]]
-  icon = "laptop-code"
-  icon_pack = "fas"
-  name = "Node.js"
-  description = "60%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
