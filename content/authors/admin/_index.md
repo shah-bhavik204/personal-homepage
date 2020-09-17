@@ -53,7 +53,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: 'static/files/Shah-Resume.docx'
+  link: 'files/Shah-Resume.docx'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "bhaviksamir.shah@mavs.uta.edu"
