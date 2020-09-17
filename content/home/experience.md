@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "IorTa Technology Solutions"
   company_url = "https://www.iorta.in/"
   location = "Mumbai, India"
-  date_start = "Jun 1, 2018"
-  date_end = "Nov 25, 2018"
+  date_start = "June 1, 2018"
+  date_end = "November 25, 2018"
   description = """
   Responsibilities include:
   *	Web Designing
@@ -38,8 +38,8 @@ date_format = "Jan 2006"
   company = "Kennect Solutions"
   company_url = "https://www.kennect.in"
   location = "Mumbai, India"
-  date_start = "Dec 1, 2018"
-  date_end = "Dec 30, 2019"
+  date_start = "December 1, 2018"
+  date_end = "December 30, 2019"
   description = """
   Responsibilities include:
   *	Server-Side programming (Node.js)
