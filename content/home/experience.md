@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   *	Server-Side programming (Node.js)
   *	Front-end development (Vue.js)
   *	Database Management (MongoDB, Neo4j)
-  *	Project Management
+  *	Project Management 
 
   """
 
