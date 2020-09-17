@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bhavik Samir Shah
+title: Bhavik Shah
 
 # Username (this should match the folder name)
 authors:
@@ -63,7 +63,7 @@ email: "bhaviksamir.shah@mavs.uta.edu"
 user_groups:
 # - Researchers
 # - Visitors
-# ---
+---
 
 I am a young and entusiastic Software developer with two years of experience in full-stack development. I have taken role as a Junior developer, Lead developer, and Solo developer in different Projects. I have a keen intersts in Artificial Intelligence, Data Mining and RFID. 
 
