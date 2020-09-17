@@ -19,33 +19,48 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  organization = "Kennect"
+  organization_url = ""
+  title = "KBET"
+  # url = ""
+  # certificate_url = "https://www.coursera.org"
+  date_start = "2018-12-01"
+  date_end = "2019-09-01"
+  description = """
+  *	KBET is a comprehensive, self-managed solution where employees can track and simulate their incentive data on a real-time basis.
+  *	I was responsible for Web development, Database Management and Testing. 
+
+  """
+  
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "IorTa Technology Solutions"
+  organization_url = ""
+  title = "SalesDrive"
+  # url = ""
+  # certificate_url = "https://www.edx.org"
+  date_start = "2018-07-01"
+  date_end = "2018-10-01"
+  description = """
+  *	Created Responsive and Dynamic Web pages using framework Vue.js and Vuetify.
+  *	Developed Web Application using Weex framework and performed Manual Testing and Debugging.
+
+  """
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  organization = "College Project"
+  organization_url = ""
+  title = "3-way Authentication System"
+  # url = ""
+  # certificate_url = "https://www.datacamp.com"
+  date_start = "2017-05-01"
+  date_end = "2018-03-21"
+  description = """
+  *	Created a secure Authentication process for Banking System consisting of QR Scanner Application to scan QR code generated in the system. The application will match IMEI number of devices from which it is scanned with the data stored in the database to provide further access to the system.
+  *	I was responsible for Planning, Documentation, Presentation and Testing.
+
+  """
+
+
 
 +++

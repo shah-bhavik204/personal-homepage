@@ -27,7 +27,7 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "node-js"
+  icon = "js"
   icon_pack = "fas"
   name = "Node.js"
   description = "10%"
