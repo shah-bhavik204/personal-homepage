@@ -27,7 +27,19 @@ subtitle = ""
   description = "60%"  
   
 [[feature]]
-  icon = "js-square"
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Node.js"
+  description = "60%"
+
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Node.js"
+  description = "60%"
+
+[[feature]]
+  icon = "laptop-code"
   icon_pack = "fas"
   name = "Node.js"
   description = "60%"
