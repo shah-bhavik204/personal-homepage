@@ -14,11 +14,7 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
-  icon = vue
-  icon_pack = "fab"
-  name = "Vue.js"
-  description = "90%"
+
   
 [[feature]]
   icon = "chart-line"
