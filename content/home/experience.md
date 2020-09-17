@@ -40,7 +40,6 @@ date_format = "Jan 2006"
   location = "Mumbai, India"
   date_start = "Dec 1, 2018"
   date_end = "Dec 30, 2019"
-  description = """
   Responsibilities include:
   *	Server-Side programming (Node.js)
   *	Front-end development (Vue.js)
