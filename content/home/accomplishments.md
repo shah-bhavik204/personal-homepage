@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Projects"
 subtitle = ""
 
 # Date format
@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Kennect"
+  organization = "Kennect Solution"
   organization_url = ""
   title = "KBET"
   # url = ""
@@ -27,6 +27,7 @@ date_format = "Jan 2006"
   date_start = "2018-12-01"
   date_end = "2019-09-01"
   description = """
+
   *	KBET is a comprehensive, self-managed solution where employees can track and simulate their incentive data on a real-time basis.
   *	I was responsible for Web development, Database Management and Testing. 
 
@@ -42,6 +43,7 @@ date_format = "Jan 2006"
   date_start = "2018-07-01"
   date_end = "2018-10-01"
   description = """
+
   *	Created Responsive and Dynamic Web pages using framework Vue.js and Vuetify.
   *	Developed Web Application using Weex framework and performed Manual Testing and Debugging.
 
@@ -56,6 +58,7 @@ date_format = "Jan 2006"
   date_start = "2017-05-01"
   date_end = "2018-03-21"
   description = """
+
   *	Created a secure Authentication process for Banking System consisting of QR Scanner Application to scan QR code generated in the system. The application will match IMEI number of devices from which it is scanned with the data stored in the database to provide further access to the system.
   *	I was responsible for Planning, Documentation, Presentation and Testing.
 

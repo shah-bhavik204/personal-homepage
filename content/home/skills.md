@@ -18,19 +18,19 @@ subtitle = ""
   icon = "vuejs"
   icon_pack = "fab"
   name = "Vue.js"
-  description = "90%"
+  description = "80%"
   
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "MongoDB"
-  description = "100%"  
+  description = "60%"  
   
 [[feature]]
-  icon = "js"
+  icon = "js-square"
   icon_pack = "fas"
   name = "Node.js"
-  description = "10%"
+  description = "60%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
