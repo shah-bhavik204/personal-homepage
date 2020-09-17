@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "vue"
+  icon = "vuejs"
   icon_pack = "fab"
   name = "Vue.js"
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "database"
   icon_pack = "fas"
-  name = "MOngoDB"
+  name = "MongoDB"
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "node"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Node.js"
   description = "10%"
 
 # Uncomment to use emoji icons.
