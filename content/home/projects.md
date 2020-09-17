@@ -40,7 +40,7 @@ subtitle = ""
     author = "bhavik"
     exclude_featured = false
 
-    [content.filters]
+   
     tag = "KBET"
     category = "ABC"
     publication_type = "xyz"
