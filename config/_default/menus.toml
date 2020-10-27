@@ -29,6 +29,12 @@
   url = "#contact"
   weight = 50
 
+ [[main]]
+    icon = "cv"
+    name = "Assignment 1"
+    url = "files/DM-assignment1.ipynb"
+    weight = 60
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
