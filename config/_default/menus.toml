@@ -32,7 +32,7 @@
  [[main]]
     icon = "cv"
     name = "Assignment 1"
-    url = "files/DM-assignment1.ipynb"
+    url = "files/DM-assignment1.html"
     weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
