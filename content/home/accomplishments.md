@@ -19,6 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Data Mining Final Project- Board Game Review Rating Predictor"
+  organization_url = "http://bsshah4216.pythonanywhere.com/"
+  title = "KBET"
+  url = "https://www.kaggle.com/bhaviksshah/board-game-review-rating-predictor"
+  certificate_url = "https://youtu.be/fRhuZLYC2bo"
+  date_start = "2020-12-01"
+  date_end = "2020-12-13"
+  description = """
+
+  *	The main aim of the project is to predict the rating of a game review based on the review provided as input. The purpose of this project is handling large scale data and understanding the working of classification algorithms.
+
+  """
+
+[[item]]
   organization = "Kennect Solution"
   organization_url = ""
   title = "KBET"

@@ -43,8 +43,8 @@
 
 [[main]]
     icon = "cv"
-    name = "Final Project"
-    url = "https://www.kaggle.com/bhaviksshah/board-game-review-rating-predictor"
+    name = "Final Project Demo"
+    url = "http://bsshah4216.pythonanywhere.com/"
     weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
